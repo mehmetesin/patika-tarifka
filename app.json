@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "patika-tarifka",
+    "slug": "patika-tarifka",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "patika-tarifka"
+}
